@@ -34,10 +34,10 @@
     *(肖星老师的公开课)[https://uqer.io/course/4]
     *(肖星老师的纸质书，一本书读懂财报)[https://book.douban.com/subject/25926542/]
     *还有之前评论里有人提到的，手把手教你读财报，唐朝老师的， 推荐~还有一些行业的投资逻辑，建议大家看看各大券商分析师的研报
-如果有新的学习素材，会持续在这个帖子更新，大家的学习素材，也可以在这里共享；另，我们正在准备赛题辅导的内容，大家的问题都会得到解答，具体的辅导时间请关注天池的通知~
+如果有新的学习素材，会持续在这个帖子更新，大家的学习素材，也可以在这里共享；另，我们正在准备赛题辅导的内容，大家的问题都会得到解答，具体的辅导时间请关注天池的通知
 
 
-    (巨潮资讯网站提供的定期报告预约披露时间表)[http://www.cninfo.com.cn/cninfo-new/information/prbookinfo] 
+    [巨潮资讯网站提供的定期报告预约披露时间表](http://www.cninfo.com.cn/cninfo-new/information/prbookinfo)
     (中国人民银行网站统计数据)[http://www.pbc.gov.cn/diaochatongjisi/116219/116319/index.html] (及其子页面中提供的数据)
     历史汇率信息：
     (美元)[http://fx.cmbchina.com/hq/History.aspx?nbr=%u7F8E%u5143]
